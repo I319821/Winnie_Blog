@@ -1,1 +1,6 @@
 theme: jekyll-theme-time-machine
+/Winnie_Blog
+  _config.yml
+  index.html
+  _post
+    2019-06-29-hello-world.html
