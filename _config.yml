@@ -1,4 +1,5 @@
 theme: jekyll-theme-time-machine
+permalink: :title/
 baseurl: /Winnie_Blog
   _config.yml
   index.html
