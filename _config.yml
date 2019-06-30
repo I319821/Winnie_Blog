@@ -4,3 +4,5 @@ baseurl: /Winnie_Blog
   index.html
   _post
     2019-06-29-hello-world.html
+    _Java8-new-feature
+      2019-06-30-java8-lambda-standard-function-interface.md
